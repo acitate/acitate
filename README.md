@@ -64,7 +64,7 @@ Currently learning stuff.
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acitate&theme=dark" alt="GitHub Streak">
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </p>
 
 </div>
