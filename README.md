@@ -2,8 +2,6 @@
 
 <h1>Hello there, I'm Parsa :)</h1>
 
-Currently learning stuff.
-
 <!-- Social Badges -->
 <p>
   <a href="https://linkedin.com/in/m-parsa-kolivand">
@@ -16,6 +14,8 @@ Currently learning stuff.
     <img src="https://img.shields.io/badge/Hackerrank-044834?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank">
   </a>
 </p>
+
+A CS student and an aspiring engineer. Still learning things...
 
 </div>
 
@@ -33,7 +33,7 @@ Currently learning stuff.
 
 <div align="center">
 
-## Now...
+## Currently...
 
   • Learning <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="8%">
              <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange" width="8%">
@@ -62,12 +62,12 @@ Currently learning stuff.
 ## GitHub Stats
 
 <p>
-  <img src="https://github-stats-extended.vercel.app/api?username=acitate&rank_icon=percentile&custom_title=Github%20Stats&show_icons=true&theme=dark" alt="GitHub Stats" width="56%">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=acitate&layout=donut&langs_count=5&theme=dark&hide=java&exclude_repo=dispatch" alt="Top Languages" width="38%">
+  <img src="./profile/stats.svg" alt="GitHub Stats" width="54%">
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="38%">
 </p>
 
 <p>
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="56%">
 </p>
 
 </div>
