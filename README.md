@@ -1,8 +1,7 @@
 <div align="center">
 
-<h1>Hello there, I'm Parsa :)</h1>
+<h1>Hi there, I'm Parsa :)</h1>
 
-<!-- Social Badges -->
 <p>
   <a href="https://linkedin.com/in/m-parsa-kolivand">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -15,7 +14,7 @@
   </a>
 </p>
 
-A CS student and an aspiring engineer. Still learning things...
+A CS student and an aspiring engineer.
 
 </div>
 
