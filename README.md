@@ -1,7 +1,46 @@
 <div align="center">
 
-<h1>Hi there, I'm Parsa :)</h1>
+<h1>Hi there, I'm Parsa</h1>
 
+CS student interested in <b>systems, networking and building things that <i>serve a purpose</i>.</b>
+
+</div>
+
+<div align="center">
+
+## Things I've built
+
+#### [WebCerver](https://github.com/acitate/WebCerver)
+A minimal HTTP/1.1 GET server written in C using POSIX sockets.
+> pthread-based concurrency · request parsing · static file serving · path sanitization ... and segfaults.
+
+---
+
+#### [DSA](https://github.com/acitate/DSA)
+A small data structures library implemented from scratch in C and C++. Built collaboratively; no longer maintained.
+> C · C++ · Python tooling 
+
+</div>
+
+<div align="center">
+
+## Tools I use
+<b>C · Python · Linux · Git</b>
+
+</div>
+
+<div align="center">
+
+## Currently Exploring
+<b>Systems · Networking · Software Architecture</b>
+
+And the intersections between them.
+
+</div>
+
+<div align="center">
+
+## Contact
 <p>
   <a href="https://linkedin.com/in/m-parsa-kolivand">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -11,61 +50,4 @@
   </a>
 </p>
 
-A CS student and an aspiring engineer.
-
 </div>
-
-<br></br>
-
-<div align="center">
-
-## Tech I Like
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,linux,git,postgres&theme=dark">
-</p>
-
-</div>
-
-<div align="center">
-
-## Currently...
-
-  • Learning <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="8%">
-             <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange" width="8%">
-             <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="8%">\
-  • Building personal projects.\
-  • Looking for an internship.
-</div>
-
-<div align="center">
-
-## Projects
-
-<p>
-  <a href="https://github.com/acitate/WebCerver">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=acitate&repo=acitate%2FWebCerver&theme=github_dark">
-  </a>
-  <a href="https://github.com/acitate/DSA">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=acitate&repo=acitate%2FDSA&theme=github_dark">
-  </a>
-</p>
-
-</div>
-
-<div align="center">
-
-## GitHub Stats
-
-<p>
-  <img src="./profile/stats.svg" alt="GitHub Stats" width="54%">
-  <img src="./profile/top-langs.svg" alt="Top Languages" width="38%">
-</p>
-
-<p>
-  <img src="./profile/streak.svg" alt="GitHub Streak" width="56%">
-</p>
-
-</div>
-
-<div align="center">
